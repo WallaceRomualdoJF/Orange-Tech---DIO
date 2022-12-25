@@ -1,4 +1,3 @@
-/* CREATED BY KAUAN VIDIGAL- GITHUB Vidigal-code (https://github.com/Vidigal-code) */
  .pokemons {
      display: grid;
      grid-template-columns: 1fr;
@@ -217,4 +216,3 @@
          grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
- 
