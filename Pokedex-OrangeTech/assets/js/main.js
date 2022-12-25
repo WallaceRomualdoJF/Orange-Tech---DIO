@@ -1,5 +1,3 @@
-/* CREATED BY KAUAN VIDIGAL- GITHUB Vidigal-code (https://github.com/Vidigal-code) */
-
 const pokemonList = document.getElementById("pokemonList");
 const loadMoreButton = document.getElementById("loadMoreButton");
 
