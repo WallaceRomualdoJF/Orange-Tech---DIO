@@ -1,5 +1,3 @@
-/* CREATED BY KAUAN VIDIGAL- GITHUB Vidigal-code (https://github.com/Vidigal-code) */
-
 const urlParams = new URLSearchParams(window.location.search);
 const nameParam = urlParams.get("name");
 const url = `https://pokeapi.co/api/v2/pokemon/${nameParam}`;
