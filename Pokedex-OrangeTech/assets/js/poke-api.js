@@ -1,5 +1,3 @@
-/* CREATED BY KAUAN VIDIGAL- GITHUB Vidigal-code (https://github.com/Vidigal-code) */
-
 const pokeApi = {};
 
 function convertPokeApiDetailToPokemon(pokeDetail) {
