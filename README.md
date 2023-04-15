@@ -8,6 +8,9 @@ Repositório reservado para o Bootcamp Orange Tech +, uma parceria [Inter](https
 [Estudos de JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
 <br/>
 
+[JavaScript - Instruções pelo site Devmedia](https://www.devmedia.com.br/javascript/)
+<br/>
+
 
 ## Desafios Básicos:
 
