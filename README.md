@@ -11,6 +11,9 @@ Repositório reservado para o Bootcamp Orange Tech +, uma parceria [Inter](https
 [Instruções Devmedia sobre o JavaScript](https://www.devmedia.com.br/javascript/)
 <br/>
 
+[Guia JavaScript]([https://www.devmedia.com.br/javascript/](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjQxo21rrz-AhXNtJUCHegqAPwQFnoECCYQAQ&url=https%3A%2F%2Fwww.devmedia.com.br%2Fjavascript%2F&usg=AOvVaw3XU25G0cg9T_frfLBUFCt9))
+<br/>
+
 
 ## Desafios Básicos:
 
