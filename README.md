@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://web.dio.me/track/orange-tech/"><img src="[https://github.com/Vidigal-code/Bootcamp-Orange-Tech/blob/master/ASSETS/IMG/orangetech.png](https://github.com/WallaceRomualdoJF/Orange-Tech-DIO/blob/main/Front-End/0%20-%20ASSETS/IMG/orangetech.png)" alt="Logo Orange Tech +" width="100"/></a> <br/>Orange Tech + Front End</h1>
+<h1 align="center"><a href="https://web.dio.me/track/orange-tech/"><img src="[[https://github.com/Vidigal-code/Bootcamp-Orange-Tech/blob/master/ASSETS/IMG/orangetech.png](https://github.com/WallaceRomualdoJF/Orange-Tech-DIO/blob/main/Front-End/0%20-%20ASSETS/IMG/orangetech.png](https://assets.dio.me/DtBJ8wiWqJPkDnGfWQhFz5ggaUrNPObUHvN16oJ7e9E/f:webp/h:120/q:80/L3RyYWNrcy81OTQxNzkxNC1jNGNlLTRiZjgtYjgwMi1mMWMxOTg1YTA3ZmEucG5n))" alt="Logo Orange Tech +" width="100"/></a> <br/>Orange Tech + Front End</h1>
 
 Repositório para o Bootcamp Orange Tech + com linguaguem em Front e Back End, uma parceria [Inter](https://www.bancointer.com.br/) e [DIO](https://dio.me/).
 
